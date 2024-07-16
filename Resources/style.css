@@ -17,3 +17,19 @@ body {
     color: aquamarine;
     text-align: center;
 }
+
+.quote1style {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+.hyperlinkStyle {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    color: aquamarine;
+    text-align: center;
+}
